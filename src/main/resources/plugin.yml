@@ -1,0 +1,4 @@
+name: ClockPlugin
+version: '${project.version}'
+main: me.terramain.clockplugin.Main
+api-version: '1.20'
